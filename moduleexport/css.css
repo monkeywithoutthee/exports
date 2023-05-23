@@ -1,0 +1,22 @@
+body{
+  background-color: rgba(0,0,0,0.8);
+  color: white;
+  padding: 10px;
+  font-family: monospace;
+}
+
+.jokeContent{
+  padding-bottom: 20px;
+}
+.jokeButton{
+
+}
+.fetchJoke{
+  width: 100%;
+}
+.jokeTitle{
+  padding-top: 20px;
+}
+.mainhead{
+  font-size: larger;
+}
